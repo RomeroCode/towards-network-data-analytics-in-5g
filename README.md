@@ -1,6 +1,6 @@
 # 📡 Towards Network Data Analytics in 5G Systems and Beyond
 
-This repository documents the datasets and NWDAF-related implementations used in the research article:
+This repository documents the datasets and NWDAF-related implementations of the articles cited in the research article:
 
 > **Title:** *Towards Network Data Analytics in 5G Systems and Beyond*  
 > **Author:** Marcos L. Romero  
@@ -27,7 +27,7 @@ If it has been useful to you, and you would like to cite it in a scientific publ
 
 ---
 
-## 📊 Datasets Used
+## 📊 Datasets
 
 | # | Dataset | Source / Authors | Access |
 |--|---------|------------------|--------|
