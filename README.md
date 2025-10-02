@@ -5,8 +5,8 @@ This repository documents the datasets and NWDAF-related implementations of the 
 > **Title:** *Towards Network Data Analytics in 5G Systems and Beyond*  
 > **Authors:** Marcos L. Romero and Ricardo Suyama (Information Engineerging, UFABC) 
 > **Submission:** XLIII BRAZILIAN SYMPOSIUM ON TELECOMMUNICATIONS AND SIGNAL PROCESSING - SBrT 2025  
-> **Date:** April 2025  
-> **State:** Under review
+> **Date:** October 2025  
+> **State:** Accepted
 
 ---
 
